@@ -1,4 +1,4 @@
-ID	Symptoms	Causes	Repairs
+ID	Symptom	Cause	Repair
 AIRFLOW-217	Crash	Problems in settings	Modifying build files or options
 AIRFLOW-43	Crash	Problems in operating systems	Modifying operating systems
 AIRFLOW-436	Unexpected behavior	Problems in my clients	Modifying API calls
